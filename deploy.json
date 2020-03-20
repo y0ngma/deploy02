@@ -1,7 +1,7 @@
 {
   "REPO_URL":"https://github.com/y0ngma/deploy02",
   "PROJECT_NAME":"dj_deploy",
-  "REMOTE_HOST_SSH":"ec2-13-125-237-86.ap-northeast-2.compute.amazonaws.com",
-  "REMOTE_HOST":"13.125.237.86",
+  "REMOTE_HOST_SSH":"ec2-13-209-96-139.ap-northeast-2.compute.amazonaws.com",
+  "REMOTE_HOST":"13.209.96.139",
   "REMOTE_USER":"ubuntu"
 }
